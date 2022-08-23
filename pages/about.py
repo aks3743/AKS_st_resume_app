@@ -34,11 +34,11 @@ Always on the lookout for new technologies, I am passionate about designing Data
 [**LinkedIn**](https://www.linkedin.com/in/abhijith-k-s-aks3743/) | [**Email**](mailto:aksstudy94@gmail.com)
 
 ## The Project
-I came across **Streamlit** last week while looking for solution to host python apps on AWS EC2. 
+I came across **Streamlit** while looking for solution to host python apps on web. 
 The Framework  boasts of being the easiest and the fastest way of creating interactive apps, and after spending just a 
 few hours creating this interactive resume, I can vouch for that. 
 
-Check out my [**GitHub**]() for the implementation. Reach out to me for any project or a simple discussion on Streamlit.
+Check out my [**GitHub**](https://github.com/aks3743/) for the implementation. Reach out to me for any project or a simple discussion on Streamlit.
 Also check out their [**page**](https://www.streamlit.io/) for more more information and updates.
 Also check out this amazing implementation of Streamlit by [**Marc Skov Madsen**](http://awesome-streamlit.org/) for streamlit inspiration.
 
