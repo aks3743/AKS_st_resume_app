@@ -1,7 +1,7 @@
 """About page shown when the user enters the application"""
 import streamlit as st
 import base64
-LOGO_IMAGE = "pages\\aks1.jpg"
+LOGO_IMAGE = ".\\pages\\aks1.jpg"
 def write():
     """Used to write the about page in the app.py file"""
     st.title("Un Esprit Curieux - A curious mind!")
