@@ -13,7 +13,7 @@ PAGES = {
     "Education" : pages.edu,
     "Skills": pages.skills,
     "Projects": pages.projects,
-    "Recommendations": pages.recommendations
+    # "Recommendations": pages.recommendations
 }
 
 def main():
