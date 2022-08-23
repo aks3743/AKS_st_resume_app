@@ -22,7 +22,7 @@ def main():
     selection = st.sidebar.radio("Go to", list(PAGES.keys()))
 
     page = PAGES[selection]
-    
+    st.snow()
     with st.spinner(f"Loading {selection} ..."):
         ast.write_page(page)
 

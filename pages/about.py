@@ -1,7 +1,7 @@
 """About page shown when the user enters the application"""
 import streamlit as st
 import base64
-LOGO_IMAGE = "./aks1.jpg"
+LOGO_IMAGE = "pages\\aks1.jpg"
 def write():
     """Used to write the about page in the app.py file"""
     st.title("Un Esprit Curieux - A curious mind!")
@@ -28,7 +28,7 @@ Always on the lookout for new technologies, I am passionate about designing Data
  
 
 
-*Abhijith K S* \n
+### Abhijith KS \n
 **Data Science | Business Analytics | Project Management**
 
 [**LinkedIn**](https://www.linkedin.com/in/abhijith-k-s-aks3743/) | [**Email**](mailto:aksstudy94@gmail.com)
