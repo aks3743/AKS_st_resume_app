@@ -17,6 +17,7 @@ def write():
 )
     except OSError as OS:
         pass
+    st.image(LOGO_IMAGE,width=100)
     st.markdown(
             """## Who Am I?
 "_I am a Random Forest in the World of Overfitting_"
