@@ -5,40 +5,54 @@ def write():
     """Used to write the page in the app.py file"""
     st.title("Projects - :male-construction-worker: ")
     st.markdown(
-            """### Graduate Consultant, LIMRA | Aug 2019 – Dec 2019
-            
-**Life insurance Policy Lapse Study [AWS Sagemaker, S3, Python, MS Project]**
-- Performed exploratory data analysis on 9.6 million records of aggregated data about “premium persistency” and analyzed the frequency and causes of lapses using Tableau
-- Built XGBoost classification model with 83% precision, 76% recall using AWS Sagemaker to predict customer churn 
+            """
+### Decision Scientist, Mu Sigma Inc.| June 2019 - July 2022
 
-            
-### Decision Scientist, Mu Sigma Inc.| July 2015 - Dec 2020
-**Web Application for a Major US Retailer [SQL- Teradata, HANA, HIVE, Agile-JIRA]**
-- Managed agile teams working on development of a web-based Business Intelligence dashboard to rate ~51k vendors based on key performance indicators like OTIF and In-stock Metrics
-- Led a team of five analysts to develop SQL queries, calculation views and stored procedures to extract data for front-end visualizations
+**Launch Support & Analytics**\n
+June 2021 -- July 2022 **(SQL, python, Tableau)**
 
-**Sales and revenue reporting for a US Technology giant [Excel, VBA, SSIS-ETL]**
-- Developed multiple Power BI and Excel dashboards explaining sales and revenues across different business units.
-- Performed Extract Transform Load of data files from several Data Sources to feed the DataCube backend for the reports
-- Created data quality dashboard using VBA and excel to accurately identify data discrepancy issues between reports reducing the time for manual verification by 90%
+ Managed a team of fifteen analysts who assisted the Strategy team in determining the pertinent indicators that needed to be monitored during the introduction of a new drug into various markets
+ Compiled all ﬁeld strategy, ﬁnancial strategy, promotional strategy, and customer strategy data into a single dashboard(Tableau) and enabled the leadership team in staying on top of all launch operations on each front. The analysis for the BE data was processed in python which needed knowledge of databases, pandas, numpy etc. The ADS created was pushed into AWS S3 buckets through boto3 library.
+ The team also created a dashboard(Tableau) that is presentation ready, which helped them in tracking the pre prep for future launches (Launch readiness). This dashboard helped the launch strategy team in tracking each steps of launch process which previously was done using excel tracker, leading to many errors and time wastage
 
-**Predicting potential product complaints [Regex, NLP, Random Forest]**
-- Processed customer complaints data using regex and NLP to identify common topics and establish a cause effect relationship with quality control tests’ data from a refrigerator assembly line
-- Created a scalable tool on SAS Visual Analytics to speed up identifying issues during production, leading to 25% improvement in parts availability during assembly
+**Network Analytics**\n
+Feb 2021 -- May 2021 **(SQL, python, Tableau, Excel)**
+
+ Led a three-member team who helped the launch team in ﬁnding the most eﬀective healthcare providers to contact in order to enroll patients in a new study
+ Techniques like hcp profiling, distance calculations were involved in this activity
+ This assisted the customer in reducing efforts in terms of both money and time, and it helped them choose the best course of action
+
+**Customer Insights Portal Analytics**\n
+March 2020 -- Jan 2021 **(python, SQL, Tableau)**
+
+ Developed a sentiment analyzer for medical insights obtained, comparing the performance of libraries BERT, BIOBERT, and SciBERT. This aided the Customer Engagement Team in finding and categorizing pertinent material that required rapid attention, which previously required a great deal of human engagement.For this CRM project, I worked on sentiment analysis to categorize HCP insights as good, negative, or neutral. To construct this, I utilized BERT for embedding and added a classification layer to the end of the pretrained model. However, there were challenges such as class imbalance, data shortages, and so on throughout implementation. But using this, we were able to attain over 60\% accuracy and accurately identify the majority of the insightful findings.
+ Used text mining and text clustering techniques to group the insights collected to particular categories using TF-IDF technique
+ Created curated reports using text mining and NLP techniques to support major US Medical congresses such as ASCO, ASH etc. These were numbers pulled out after processing text data to finding most trending terms, topics etc. This helped the leadership team in following the flow of a concept or topic over time to find out which is the most relevant topic of discussion. We used python to do the data processing and displayed the information in the form of Tableau dashboards.
+ Created notebooks for automated reports on impact of COVID-19 in different therapeutics areas, which involved trending topics identification, information retrieval from raw text etc.
+
+**Patient enrollment prediction - NRDG Studies**\n
+June 2019 -- Feb 2020 **(R, python, SQL, Tableau, Excel)**\n
+
+ Performed patient enrolment prediction for NRDG Studies
+ Used multiple regression techniques such as linear regression, polynomial regression etc to derive the best prediction values
+ Helped the client in making decisions on studies that will be delayed in the future and derive business strategies based on the predictions. The above information helped the leadership team in identifying studies that were having a risk of getting delayed and also properly understanding why are they getting delayed
 
 
-### Academic Projects [(GitHub)](https://github.com/alphadatagamma)
+### Associate Analyst, EY LLP| May 2018 - May 2019
+**Audit and Accounting** \n
+April 2018 -- May 2019 **(R, python, SQL, Tableau, Excel)**
+ Started career as Data Analyst. Had the opportunity to look into and perform ETL on different variety of data
+ Worked on image processing and recognition activities from scanned pdf documents
+ Worked on Audit data of fortune-500 companies
 
-**The Cricket Project [BeautifulSoup, Regex, AWS Sagemaker, S3, Redshift, Tableau]**
-- Used BeautifulSoup and Regex to scrape cricket data for 10 countries and ~6000 players using AWS Sagemaker and EC2 
-- Created a data warehouse in AWS Redshift, and a tableau dashboard to visualize key trends
+### Academic Projects [(GitHub)](https://github.com/aks3743/)
 
-**Advance House Price Prediction in Python [Kaggle Top 2%, Stacked Regression]**
-- Created a custom stacked regression model to predict sale price for 1500 houses and achieved a low RMSE of 0.11 for the final model and a top 2% rank on the leaderboard
+### Mtech thesis Birla Institute of Technology Pilani\n
+May 2022 - Aug 2022 **(python, Tableau, Excel)**
 
-**IBM Attrition Analysis and Prediction [Python, Tableau, Decision Trees]**
-- Performed exploratory data analysis and external research to identify the mix of drivers affecting employee attrition rates  
-- Created a classification model using Decision trees and Gradient Boosting to identify employees that are likely to leave, so that the company can have a strategy for employee engagement
+ We sought to make a product that could convert photographs to sounds while working on the image to audio generator. Here, I decoded the image using a CNN model (VGG16, Resnet50, etc.), tokenized and embedded the captions using glove embedding, and then integrated the two models to convert the image to text and the text to audio using the Google API.
+ There were many NLP related assignments that I have worked on during my Masters in data science and engineering like image caption generator , restaurant recommender, stack overflow question quality classification etc.
+
 
             
 

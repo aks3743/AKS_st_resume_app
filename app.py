@@ -31,7 +31,7 @@ def main():
         """
         If you are looking to hire a Data Scientist, 
         [email me](mailto:aksstudy94@gmail.com) or reach out 
-        to me on [LinkedIn](https://www.linkedin.com/in/abhijith-k-s-aks3743/)
+        to me on [Linkedin](https://www.linkedin.com/in/abhijith-k-s-aks3743/)
 """)
     st.sidebar.title("Additional Info")
     st.sidebar.info(
