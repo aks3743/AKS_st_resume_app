@@ -5,7 +5,8 @@ LOGO_IMAGE = "pages\\aks1.jpg"
 def write():
     """Used to write the about page in the app.py file"""
     st.title("Un Esprit Curieux - A curious mind!")
-    st.markdown(
+    try :
+        st.markdown(
     f"""
     <div class="container">
         <img class="logo-img" src="data:image/png;base64,{base64.b64encode(open(LOGO_IMAGE, "rb").read()).decode()}" width="100" height="100">
@@ -14,6 +15,8 @@ def write():
     """,
     unsafe_allow_html=True
 )
+    except OSError as OS:
+        pass
     st.markdown(
             """## Who Am I?
 "_I am a Random Forest in the World of Overfitting_"
