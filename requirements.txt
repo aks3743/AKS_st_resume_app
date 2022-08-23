@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 streamlit==1.8.1
+=======
+streamlit==1.8.14
+>>>>>>> 85efd3794fa2fc52d4f4447b9dc3ebd6563ed13e
