@@ -1,4 +1,5 @@
 """About page shown when the user enters the application"""
+from ast import Pass
 import streamlit as st
 import base64
 LOGO_IMAGE = "pages\\aks1.jpg"
@@ -43,11 +44,14 @@ Always on the lookout for new technologies, I am passionate about designing Data
     with open(file_path,"rb") as f:
         base64_pdf = base64.b64encode(f.read()).decode('utf-8')
     pdf_display = f'<iframe src="data:application/pdf;base64,{base64_pdf}" width="800" height="800" type="application/pdf"></iframe>'
-    st.markdown(
-        '''
-        ### My resume
-    ''')
-    st.markdown(pdf_display, unsafe_allow_html=True)
+    try :
+        st.markdown(
+            '''
+            ### My resume
+        ''')
+        st.markdown(pdf_display, unsafe_allow_html=True)
+    except OSError as e:
+        Pass
     st.markdown(
         '''
         ## The Project
