@@ -40,11 +40,12 @@ Always on the lookout for new technologies, I am passionate about designing Data
             unsafe_allow_html=True,
         )
     
-    file_path='pages\Abhijith_KS_CV_18_08_compressed.pdf'
-    with open(file_path,"rb") as f:
-        base64_pdf = base64.b64encode(f.read()).decode('utf-8')
-    pdf_display = f'<iframe src="data:application/pdf;base64,{base64_pdf}" width="800" height="800" type="application/pdf"></iframe>'
+    
     try :
+        file_path='pages\Abhijith_KS_CV_18_08_compressed.pdf'
+        with open(file_path,"rb") as f:
+            base64_pdf = base64.b64encode(f.read()).decode('utf-8')
+        pdf_display = f'<iframe src="data:application/pdf;base64,{base64_pdf}" width="800" height="800" type="application/pdf"></iframe>'
         st.markdown(
             '''
             ### My resume
@@ -54,7 +55,7 @@ Always on the lookout for new technologies, I am passionate about designing Data
         Pass
     st.markdown(
         '''
-        ## The Project
+        #### The Project
 I came across **Streamlit** while looking for solution to host python apps on web. 
 The Framework  boasts of being the easiest and the fastest way of creating interactive apps, and after spending just a 
 few hours creating this interactive resume, I can vouch for that. 
