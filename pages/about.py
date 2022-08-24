@@ -22,9 +22,9 @@ def write():
             """## Who Am I?
 "_I am a Random Forest in the World of Overfitting_"
 
-A Data Scientist with 5 years of experience in solving Business Problems, 
+A Data Scientist with 4+ years of experience in solving Business Problems, 
 a constant learner and a firm believer of experimentation over expertise. 
-Always on the lookout for new technologies, I am passionate about designing Data driven solutions which are easy, economical and can be scaled.
+Always on the lookout for new technologies, I am passionate about designing Data driven solutions which are easy, economical and scalable.
  
 
 
