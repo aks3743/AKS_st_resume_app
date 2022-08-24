@@ -10,7 +10,7 @@ def write():
 GPA 8.2/10.00  
 
 **Courses** \n
-- Statistics in Business Analytics \n
+- Statistics in Data and Business Analytics \n
 - Big Data Analytics with Hadoop \n
 - Business Decision Modelling \n
 - Predictive Analytics \n
@@ -18,8 +18,10 @@ GPA 8.2/10.00
 - Introduction to Project Management \n
 - Advanced Business Analytics and Project Management \n
 - Adaptive Business Intelligence \n
-- Project Risk and Cost Management \n
 - Project Leadership and Communication \n
+- Machine Learning
+- Deep learning
+- Narural Language Processing
 
 
 ### Distance Learning
