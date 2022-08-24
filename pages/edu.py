@@ -40,7 +40,7 @@ GPA 8.2/10.00
 **Bachelors of Technology in Mechanical Engineering | May 2017** | [**CET**](https://www.cet.ac.in/)\n
 GPA 8.2/10.00 
 
-**Courses **\n
+**Courses ** \n
 - Essentials of management\n
 - Engineering Economics and Management \n
 - Object Oriented Programming \n
