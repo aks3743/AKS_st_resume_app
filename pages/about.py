@@ -42,7 +42,7 @@ Always on the lookout for new technologies, I am passionate about designing Data
     
     
     try :
-        file_path='https://github.com/aks3743/AKS_st_resume_app/blob/main/pages/Abhijith_KS_CV_18_08_compressed.pdf'
+        file_path='pages/Abhijith_KS_CV_18_08_compressed.pdf'
         with open(file_path,"rb") as f:
             base64_pdf = base64.b64encode(f.read()).decode('utf-8')
         pdf_display = f'<iframe src="data:application/pdf;base64,{base64_pdf}" width="800" height="800" type="application/pdf"></iframe>'
