@@ -21,7 +21,7 @@ def write():
     # st.image(LOGO_IMAGE,width=100)
     st.markdown(
             """## Who Am I?
-"_I am a Random Forest in the World of Overfitting_"
+"_I am a Bag of words who want to become Transformers_"
 
 A Data Scientist with 4+ years of experience in solving Business Problems, 
 a constant learner and a firm believer of experimentation over expertise. 
