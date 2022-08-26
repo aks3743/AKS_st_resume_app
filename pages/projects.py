@@ -30,8 +30,8 @@ March 2020 -- Jan 2021 **(python, SQL, Tableau)**
  Created curated reports using text mining and NLP techniques to support major US Medical congresses such as ASCO, ASH etc. These were numbers pulled out after processing text data to finding most trending terms, topics etc. This helped the leadership team in following the flow of a concept or topic over time to find out which is the most relevant topic of discussion. We used python to do the data processing and displayed the information in the form of Tableau dashboards.
  Created notebooks for automated reports on impact of COVID-19 in different therapeutics areas, which involved trending topics identification, information retrieval from raw text etc.
 
-**Patient enrollment prediction - NRDG Studies**\n
-June 2019 -- Feb 2020 **(R, python, SQL, Tableau, Excel)**\n
+**Patient enrollment prediction - NRDG Studies** \n
+June 2019 -- Feb 2020 **(R, python, SQL, Tableau, Excel)** \n
 
  Performed patient enrolment prediction for NRDG Studies
  Used multiple regression techniques such as linear regression, polynomial regression etc to derive the best prediction values
@@ -40,7 +40,7 @@ June 2019 -- Feb 2020 **(R, python, SQL, Tableau, Excel)**\n
 
 ### Associate Analyst, EY LLP| May 2018 - May 2019
 **Audit and Accounting** \n
-April 2018 -- May 2019 **(R, python, SQL, Tableau, Excel)**
+April 2018 -- May 2019 **(R, python, SQL, Tableau, Excel)** \n
  Started career as Data Analyst. Had the opportunity to look into and perform ETL on different variety of data
  Worked on image processing and recognition activities from scanned pdf documents
  Worked on Audit data of fortune-500 companies
