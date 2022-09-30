@@ -23,10 +23,7 @@ def write():
             """## Who Am I?
 "_I am a Bag of words who want to become Transformers_"
 
-A Data Scientist with 4+ years of experience in solving Business Problems, 
-a constant learner and a firm believer of experimentation over expertise. 
-Always on the lookout for new technologies, I am passionate about designing Data driven solutions which are easy, economical and scalable.
- 
+Skilled data scientist manager with 4+ years of experience in the Data Science domain who creates valuable insights from data and transforms them to action. Have hands-on experience in Data Analysis with expertise in Python, SQL, Tableu and Cloud technologies. Experience in developing Machine learning/Deep learning models and deploying them in production environments. Experience in managing, leading and developing data science solutions from scratch using AI/ML techniques. Experience in problem solving, ETL, EDA and data visualization. Experience in using state of the art NLP techniques in information retrieval and feature extraction from images/computer vision using DL techniques. Ability to write clean code,strong understanding of object oriented programming and excellent presentation skills.
 
 
 ### Abhijith KS \n
