@@ -32,7 +32,7 @@ Always on the lookout for new technologies, I am passionate about designing Data
 ### Abhijith KS \n
 **Data Science | Business Analytics | Project Management**
 
-[**LinkedIn**](https://www.linkedin.com/in/abhijith-k-s-aks3743/) | [**Email**](mailto:aksstudy94@gmail.com)
+[**LinkedIn**](https://linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=abhijith-k-s-aks3743) | [**Email**](mailto:aksstudy94@gmail.com)
 
 
 
