@@ -4,7 +4,7 @@ import pages.about
 import pages.skills
 import pages.projects
 import pages.edu
-import pages.recommendations
+# import pages.recommendations
 
 import resources.ast as ast
 
