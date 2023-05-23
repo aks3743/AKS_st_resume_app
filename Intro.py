@@ -33,13 +33,13 @@ st.write('''
 
 - 🤝 I’m looking for help with **Computer vision**
 
-- 👨‍💻 All of my projects are available at [https://aks3743-aks-st-resume-app-app-y0rc12.streamlitapp.com/](https://aks3743-aks-st-resume-app-app-y0rc12.streamlitapp.com/)
+
 
 - 💬 Ask me about **NLP, DL**
 
 - 📫 How to reach me **aksstudy94@gmail.com**
 
-- 📄 Know about my experiences [https://aks3743-aks-st-resume-app-app-y0rc12.streamlitapp.com/](https://aks3743-aks-st-resume-app-app-y0rc12.streamlitapp.com/)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
